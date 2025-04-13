@@ -6,10 +6,7 @@ Perdigão, D., Antunes, F., Silva, C., & Ribeiro, B. (2025). Improving Fraud Det
 
 The dataset used is available at: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022. Filepaths for the dataset and imported modules need to be adjusted accordingly. 
 
-_/src_ contains the code for running the three models.
-
-It includes a subfolder specific to each model. 
-
-The four files in the /src directory contain utility functions and variables that need to be imported in each of the model-specific notebooks. 
-
-_/analysis_ contains the notebooks for producing the Explainability results using SHAP and LIME
+- _/src_ contains the code for running the three models.
+   - It includes a subfolder specific to each model.
+   - The four files in the /src directory contain utility functions and variables that need to be imported in each of the model-specific notebooks. 
+- _/analysis_ contains the notebooks for producing the Explainability results using SHAP and LIME
